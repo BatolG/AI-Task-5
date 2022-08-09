@@ -111,4 +111,4 @@ source ~/.bashrc
 ```
 
 #### Screenshot
-![](https://github.com/BatolG/AI-Task-5/blob/main/task-51.jpg)
+![](https://github.com/BatolG/AI-Task-5/blob/main/task_51.jpg)
