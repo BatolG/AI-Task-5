@@ -110,5 +110,5 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 source ~/.bashrc
 ```
 
-#### screen shot
-![](https://github.com/BatolG/AI-Task-3/blob/main/task-51.jpg)
+#### Screenshot
+![](https://github.com/BatolG/AI-Task-5/blob/main/task-51.jpg)
